@@ -14,35 +14,111 @@
 			height: 100%;
 		}
 
-		h1{
-			margin: 0px;
-			height: 370px;
-			line-height: 550px;
-			font-size: 40pt;
-			font-family: Optima, Frutiger, sans-serif;
-			text-align: right;
-			padding-right: 100px;
-			color: #BBBEC3;
+		/*--- Banner ---*/
+		#banner{
+			position: fixed;
+			background-color: white;
+			opacity: 0.77;
+			width: 100%;
+			height: 50px;
+			font-family: Consolas, Courier, sans-serif;
+		}
+
+		#banner .avatar{
+			position: absolute;
+			width: 30px;
+			height: 30px;
+			border-radius: 7%;
+			border: 1px solid #BBBEC3;
+			top: 9px;
+			right: 200px;
+			opacity: 0.70;
+		}
+
+		#banner .icon-github{
+			position: absolute;
+			width: 30px;
+			height: 30px;
+			top: 5px;
+			right: 77px;
+			background-color: transparent;
+			opacity: 0.77;
+		}
+
+		#banner .icon-github:hover{
+			opacity: 1;
+		}
+		#banner .avatar:hover{
+			opacity: 1;
+		}
+
+		/*---Head---*/
+
+		#page-head{
+			height:  260px;
 			background-image: url(images/h1-bg.png);
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: 100%;
 		}
 
-		#avatar img{
-			width: 130px;
-			height: 130px;
-			border-radius: 7%;
-			float: left;
+		#page-head h1{
+			margin: 0px;
+			height: 260px;
+			line-height: 370px;
+			font-size: 40pt;
+			font-family: Optima, Frutiger, sans-serif;
+			text-align: right;
+			padding-right: 150px;
+			color: #d3dae5;
+		}
+
+		#menu{
+			position: absolute;
+			top: 187px;
+			left: 60px;
+		}
+
+		nav{
+			font-family: Consolas, Courier, sans-serif;
+			font-size: 15pt;
+			color: #d3dae5;
+
+		}
+		nav a{
+			text-decoration: none;
+			color: #d3dae5;
+		}
+		nav a:hover{
+			color: #50575D;
 		}
 	</style>
 
 </head>
 <body>
-	<h1>Yueqi's Blog</h1>
+	<div id="banner">
+		<a href="https://wangw42.github.io/" class="banner-icon">
+			<img class="avatar" src="images/avatar-wyq.jpg">
+		</a>
+		<a href="https://github.com/wangw42" class="banner-icon icon-github" target="_blank" title="github">
+			<img class="icon-github github-img" src="http://www.haotu.net/up/4249/512/41-GitHub.png">
+		</a>
+	</div>
+	
+	<div id="page-head">
+		
+		<h1>Yueqi's Blog</h1>
 
-	<div id="avatar">
-		<img src="images/avatar-wyq.jpg">
+		<div id="menu">
+			<nav>
+				<a class="menu" href="https://wangw42.github.io/">Home&nbsp;</a>
+				<a class="menu" href="">Archives&nbsp;</a>
+				<a class="menu" href="">Tags&nbsp;</a>
+				<a class="menu" href="">Categories&nbsp;</a>
+				<a class="menu" href="">About&nbsp;</a>
+			</nav>
+		</div>
+		
 	</div>
 
 </body>
