@@ -3,11 +3,11 @@ title: wangw42's Blog
 description: >
   A noob.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+baseurl: "/blog/"
+url: "" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
+  fullname: Yueqi W
   googleplus: https://www.google.com/+wangw42
   github: wangw42
   twitter: Wangw42
