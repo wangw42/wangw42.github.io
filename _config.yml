@@ -1,14 +1,14 @@
 # Site settings
-title: wangw42's Blog
+title: wangw42
 description: >
   A noob.
 
-baseurl: "/blog/"
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hitchhiker.ma" # the base hostname & protocol for your site
 
 author:
-  fullname: Yueqi W
-  googleplus: https://www.google.com/+wangw42
+  fullname: wangw42
+  googleplus: https://www.google.com/+MotaquillahMaddane
   github: wangw42
   twitter: Wangw42
   # disqus: your_disqus_forum_shortname
