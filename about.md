@@ -5,6 +5,8 @@ subtitle: Just who am I?
 permalink: /about/
 ---
 
+<img src="images/avatar-wyq.jpg" width = "150px" height = "150px"/>
+
 Undergraduate<br>
 Software Engineering<br>
 Sun Yat-sen University<br>
