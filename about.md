@@ -7,10 +7,10 @@ permalink: /about/
 
 <img src="images/avatar-wyq.jpg" width = "150px" height = "150px"/>
 
-Undergraduate<br>
-Software Engineering<br>
-Sun Yat-sen University<br>
+<center>Undergraduate</center>
+<center>Software Engineering</center>
+<center>Sun Yat-sen University</center>
 <br>
-More? Or some questions?<br>
-Contact me by [mail](mailto:yqiqiwang@gmail.com").<br>
+<center>More? Or some questions?</center>
+<center>Contact me by [mail](mailto:yqiqiwang@gmail.com).</center>
 <br>
