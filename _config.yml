@@ -3,12 +3,12 @@ title: wangw42
 description: >
   A noob.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+baseurl: "https://wangw42.github.io/" # the subpath of your site, e.g. /blog/
+url: "https://wangw42.github.io/" 
 
 author:
   fullname: wangw42
-  googleplus: https://www.google.com/+MotaquillahMaddane
+  googleplus: https://www.google.com/+wangw42
   github: wangw42
   twitter: Wangw42
   # disqus: your_disqus_forum_shortname
