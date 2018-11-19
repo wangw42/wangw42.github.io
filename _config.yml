@@ -12,8 +12,8 @@ baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     胡子孑了
-zhihu_username:     礼于
+weibo_username:     
+zhihu_username:     
 github_username:    wangw42
 #twitter_username:  Wangw42
 facebook_username:  Yueqi Wang
