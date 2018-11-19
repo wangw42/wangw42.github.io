@@ -1,10 +1,10 @@
 # Site settings
-title: wangw42 Blog
+title: wangw42
 SEOTitle: wangw42 | wangw42 Blog
-header-img: h1-bg.jpg
+header-img: img/h1-bg.jpg
 email: yqiqiwang@gmail.com
-description: "A noob"
-keyword: "wangw42"
+description: "C'est la vie."
+keyword: ""
 url: "https://wangw42.github.io/"              # your host, for absolute URL
 baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -15,7 +15,7 @@ RSS: false
 weibo_username:     胡子孑了
 zhihu_username:     礼于
 github_username:    wangw42
-#twitter_username:  wangw42
+#twitter_username:  Wangw42
 facebook_username:  Yueqi Wang
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: wblog
+duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "C'est la vie."
+sidebar-about-description: "ECCE HOMO."
 sidebar-avatar: /img/avatar-wyq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
