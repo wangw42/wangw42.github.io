@@ -4,9 +4,9 @@ SEOTitle: wangw42 | wangw42 Blog
 header-img: img/h1-bg.jpg
 email: yqiqiwang@gmail.com
 description: "C'est la vie."
-keyword: ""
+keyword: "wangw42"
 url: "https://wangw42.github.io/"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/wangw42"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -32,7 +32,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: wangw42
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -98,3 +98,5 @@ friends: [
         href: "#"
     }
 ]
+
+port: 4000
