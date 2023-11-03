@@ -8,45 +8,59 @@ redirect_from:
   - /about.html
 ---
 
-Current
-===
-
-*I am looking for a Ph.D. position in machine learning.*
 
 
 Short Bio
 ===
 
-I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
+I am currenty a second-year Ph.D. student  in Department of Computer Science at University of Pittsburgh, advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree from Sun Yat-sen University in 2022.
 
-My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
+My primary research interests are **computer architecture**.
 
 
-Education
+
+News
 ===
-* Sept. 2019 --- June 2023: B.Sc. in Mathematical Analysis, School of the Gifted Young, University of Science and Technology of China (expected)
-* Sept. 2016 --- June 2019: The High School Attached to Northwest Normal University
 
-Honors and Awards
+* 10/2023: One paper is accepted by **HPCA 2024**. Thanks to all collaborators!
+* 07/2023: One paper is accepted by **MICRO 2023**. Thanks to all collaborators!
+* 02/2023: One paper is accepted by **DAC 2023**. Thanks to all collaborators!
+
+
+Publications
 ===
-* Outstanding Freshman Scholarship    **Top 5%**     2019
-* Outstanding Undergraduate Scholarship, Gold award    **Top 3%**     2020 
-* Outstanding Undergraduate Scholarship, Bronze award  **Top 10%**     2022, 2021 
-* National Grants     **Top 5%**   2022, 2021, 2019
+
+**GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement** \
+**Yueqi Wang\* **, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
+The 30th IEEE International Symposium on High-Performance Computer Architecture \
+* \* The authors contribute equally.* \
+<!-- **HPCA 2024**  -->
+<span style="font-family: Arial; color: #7C8BE6; font-weight: bold;">HPCA 2024</span>
 
 
-Activities
+
+**IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations** \
+Bingyao Li, Yanan Guo, **Yueqi Wang**, Aamer Jaleel, Jun Yang, and Xulong Tang \
+In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture \
+**MICRO 2023** 
+
+
+**Orchestrated Scheduling and Partitioning for Improved Address Translation in GPUs** \
+Bingyao Li, **Yueqi Wang**, and Xulong Tang\
+The 60th Design Automation Conference\
+**DAC 2023** 
+
+
+
+<!-- ctivities
 ===
-* TA in *Mathematical Analysis B*, 2021 Fall
-* Editor of the Wechat account of School of Gifted Young, USTC
-* Member of School of Gifted Young Student Union
-* Attendee of ACM TURC 2021, Hefei, China
+* rua
+ -->
 
-
-<script>
+<!-- <script>
 document.write("Last modifid at: "+document.lastModified+"" )
 </script>
+ -->
+<!-- --- -->
 
----
-
-<a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
