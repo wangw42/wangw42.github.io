@@ -33,7 +33,7 @@ Publications
 **GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement** \
 **Yueqi Wang\***, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
 The 30th IEEE International Symposium on High-Performance Computer Architecture \
-*\* The authors contribute equally.* \
+<i>\*The authors contribute equally.</i>\
 <span style="font-family: Arial; color: #7C8BE6; font-weight: bold;">HPCA 2024</span>
 
 
