@@ -34,7 +34,7 @@ Publications
 
 
 <span style="font-family: Arial; color: #7C8BE6;">[HPCA 2024]</span> 
-[GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement]() \
+[GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement (To appear...)]() \
 **Yueqi Wang\***, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
 <i>\*The authors contribute equally.</i>
 
