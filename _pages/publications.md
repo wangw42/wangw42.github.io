@@ -21,15 +21,15 @@ Publications
 ===
 
 * [GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement]() \
+  [Slides]() \
   **Yueqi Wang\***, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
   The 30th IEEE International Symposium on High-Performance Computer Architecture \
   <i>\*The authors contribute equally.</i>\
   <span style="font-family: Arial; color: #7C8BE6; font-weight: bold;">HPCA 2024</span>
-  [Slides]()
+  
 
 
-
-* [IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations](../files/MICRO2023_IDYLL) \
+* [IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations](../files/MICRO2023_IDYLL.pdf) \
   Bingyao Li, Yanan Guo, **Yueqi Wang**, Aamer Jaleel, Jun Yang, and Xulong Tang \
   In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture \
   <span style="font-family: Arial; color: #7C8BE6; font-weight: bold;">MICRO 2023</span>
