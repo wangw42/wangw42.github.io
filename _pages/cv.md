@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
+sitemap: false
 ---
 
 My CV is also available to download [here](../files/WYQ_CV.pdf){:target="_blank"}.
