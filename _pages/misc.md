@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: ""
+title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 sitemap: false
+redirect_from:
+  - /wordpress/blog-posts/
 ---
 
-Miscellaneous.
-===
+
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
