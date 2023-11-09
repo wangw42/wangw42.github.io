@@ -1,22 +1,14 @@
 ---
-layout: archive
-title: ""
-permalink: /misc/
-author_profile: true
-sitemap: false
+title: "My cats"
+collection: misc
+permalink: /misc/cats
+
 ---
 
-Miscellaneous.
-===
+This is my cat Pipilu.
 
 
-{% include base_path %}
-{% for misc in site.miscs %}
-  {% include misc.url %}
-{% endfor %}
 
-
-<!-- 
 <style>
   .image-container {
     float: left;
@@ -64,4 +56,3 @@ Miscellaneous.
 
 
 <div style="clear: both;"></div> 
- -->
