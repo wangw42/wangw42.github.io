@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Cats
-description: Pipilu.
-importance: 3
-category: cats
+title: 'Cats'
+date: 2023-07-07
+permalink: /misc/cats
+tags:
+  - cats
 ---
+
 
 This is my cat Pipilu.
 
