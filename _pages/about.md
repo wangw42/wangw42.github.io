@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: yueqi
 title: ""
 excerpt: "About me"
 author_profile: true
