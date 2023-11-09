@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 sitemap: false
@@ -17,8 +17,6 @@ sitemap: false
 {% endfor %}
  -->
 
-Publications
-===
 
 * <span style="font-family: Arial; color: #7C8BE6; ">[HPCA 2024]</span> [GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement]() \
   [Slides]() \
