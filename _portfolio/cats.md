@@ -1,6 +1,6 @@
 ---
 title: "Cats"
-excerpt: "Pipilu_overview <br/><img src='/images/pipilu/pipilu1.jpg' width='22' height='22'>"
+excerpt: "Pipilu_overview <br/><img src='/images/pipilu/pipilu1.jpg' width='86' height='86'>"
 collection: portfolio
 ---
 
