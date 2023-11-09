@@ -4,21 +4,17 @@ title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 sitemap: false
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 
 
+
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}>{{ year }}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
+
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+
 
 
 
