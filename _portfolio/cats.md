@@ -1,9 +1,10 @@
 ---
 title: "Cats"
-excerpt: "Pipilu_overview <br/><img src='/images/pipilu/pipilu1.jpg' width='86' height='86'>"
+excerpt: "<img src='/images/pipilu/pipilu1.jpg' width='86' height='86'>"
 collection: portfolio
 ---
 
+<!-- excerpt: "Pipilu_overview <br/><img src='/images/pipilu/pipilu1.jpg' width='86' height='86'>" -->
 
 This is my cat Pipilu.
 
