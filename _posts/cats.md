@@ -1,8 +1,9 @@
 ---
-title: "My cats"
-collection: misc
-permalink: /misc/cats
-
+layout: page
+title: Cats
+description: Pipilu.
+importance: 3
+category: cats
 ---
 
 This is my cat Pipilu.

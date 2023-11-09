@@ -9,11 +9,23 @@ sitemap: false
 Miscellaneous.
 ===
 
+{%- if site.enable_project_categories and page.display_categories %} {%- for category in page.display_categories %}
+{{ category }}
+{%- assign categorized_posts = site.posts | where: "category", category -%} {%- assign sorted_posts = categorized_posts | sort: "importance" %} {% if page.horizontal -%}
+{%- for project in sorted_posts -%} {% include posts_horizontal.html %} {%- endfor %}
+{%- else -%}
+{%- for project in sorted_posts -%} {% include posts.html %} {%- endfor %}
+{%- endif -%} {% endfor %}
+{%- else -%}
 
-{% include base_path %}
-{% for misc in site.miscs %}
-  {% include misc.url %}
-{% endfor %}
+{%- assign sorted_posts = site.posts | sort: "importance" -%}
+
+{% if page.horizontal -%}
+
+{%- for project in sorted_posts -%} {% include posts_horizontal.html %} {%- endfor %}
+{%- else -%}
+{%- for project in sorted_posts -%} {% include posts.html %} {%- endfor %}
+{%- endif -%} {%- endif -%}
 
 
 <!-- 
@@ -64,4 +76,4 @@ Miscellaneous.
 
 
 <div style="clear: both;"></div> 
- -->
+  -->
