@@ -1,6 +1,6 @@
 ---
 title: "Cats"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/pipilu/pipilu1.jpg'>"
+excerpt: "Pipilu_overview <br/><img src='/images/pipilu/pipilu1.jpg' width='22' height='22'>"
 collection: portfolio
 ---
 
