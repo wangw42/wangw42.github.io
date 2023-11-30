@@ -1,7 +1,7 @@
 ---
 title: "Jellycat"
 excerpt: "<img src='/images/jellycat/jellycat1.jpg' width='86' height='86'>"
-collection: portfolio
+collection: misc
 ---
 
 
