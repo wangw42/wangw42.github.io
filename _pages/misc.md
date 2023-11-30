@@ -11,7 +11,7 @@ sitemap: false
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
+{% for post in site.misc %}
   {% include archive-single.html %}
 {% endfor %}
 
