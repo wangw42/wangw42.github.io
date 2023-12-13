@@ -1,6 +1,6 @@
 ---
 title: "Jellycat"
-excerpt: "<img src='/images/jellycat/jellycat1.jpg' width='86' height='86'>"
+excerpt: "<img src='/images/jellycat/jellycat0.jpg' width='86' height='86'>"
 collection: misc
 ---
 
@@ -9,12 +9,18 @@ collection: misc
 This is my Jellycats.
 
 
-
+<img src="/images/jellycat/jellycat0.jpg" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat1.jpg" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat2.jpg" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat3.JPG" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat4.JPG" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat5.jpg" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat6.jpg" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat7.JPG" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat8.JPG" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat9.JPG" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat10.JPG" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat11.JPG" style="float: left; margin-right: 10px; width: 255px;" />
 
 
 
