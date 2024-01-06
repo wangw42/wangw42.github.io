@@ -10,8 +10,8 @@ This is my Jellycats.
 
 
 <img src="/images/jellycat/jellycat0.jpg" style="float: left; margin-right: 10px; width: 255px;" />
-<img src="/images/jellycat/jellycat1.jpg" style="float: left; margin-right: 10px; width: 255px;" />
-<img src="/images/jellycat/jellycat2.jpg" style="float: left; margin-right: 10px; width: 255px;" />
+<!-- <img src="/images/jellycat/jellycat1.jpg" style="float: left; margin-right: 10px; width: 255px;" /> -->
+<!-- <img src="/images/jellycat/jellycat2.jpg" style="float: left; margin-right: 10px; width: 255px;" /> -->
 <img src="/images/jellycat/jellycat3.JPG" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat4.JPG" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat5.jpg" style="float: left; margin-right: 10px; width: 255px;" />
