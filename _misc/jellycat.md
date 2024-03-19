@@ -6,7 +6,6 @@ collection: misc
 
 
 
-This is my Jellycats.
 
 
 <img src="/images/jellycat/jellycat0.jpg" style="float: left; margin-right: 10px; width: 255px;" />
@@ -21,6 +20,8 @@ This is my Jellycats.
 <img src="/images/jellycat/jellycat9.JPG" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat10.JPG" style="float: left; margin-right: 10px; width: 255px;" />
 <img src="/images/jellycat/jellycat11.JPG" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat12.heic" style="float: left; margin-right: 10px; width: 255px;" />
+<img src="/images/jellycat/jellycat13.heic" style="float: left; margin-right: 10px; width: 255px;" />
 
 
 

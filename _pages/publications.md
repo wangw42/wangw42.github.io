@@ -18,8 +18,8 @@ sitemap: false
  -->
 
 
-* <span style="font-family: 'Raleway',Arial; color: #7C8BE6; ">[HPCA 2024]</span> [GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement]() \
-  [Slides]() \
+* <span style="font-family: 'Raleway',Arial; color: #7C8BE6; ">[HPCA 2024]</span> [GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement](../files/GRIT_HPCA24.pdf) \
+  [Slides](../files/GRIT_slides.pptx) \
   <u><b>Yueqi Wang*</b></u>, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
   The 30th IEEE International Symposium on High-Performance Computer Architecture \
   <i>\*The authors contribute equally.</i>
