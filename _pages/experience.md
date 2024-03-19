@@ -12,10 +12,11 @@ Teaching
 ===
 
 * Teaching Assistant of CS 0445: Algorithms and Data Structures 1, Pitt, Fall 2022 
-* Teaching Assistant of CS 1621: Structure Programming Languages, Pitt, Spring 2023 
+* Teaching Assistant of CS 1621: Structure Programming Languages, Pitt, Spring 2023 & 2024 
 * Teaching Assistant of CS 0445: Algorithms and Data Structures 1, Pitt, Summer 2023 
 * Teaching Assistant of CS 0447: Computer Organization and Assembly Language, Pitt, Summer 2023 
 * Teaching Assistant of CS 1541: Introduction to Computer Architecture, Pitt, Fall 2023 
+* Teaching Assistant of CS 2410: Computer Architecture, Pitt, Spring 2024 
 
 
 Education
