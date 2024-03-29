@@ -31,9 +31,19 @@ News
 Publications
 ===
 
+<style>
+    .badge {
+        background-color: #7C8BE6; /* Red background */
+        color: white;             /* White text */
+        font-weight: bold;        /* Bold font */
+        padding: 5px 10px;        /* Padding around the text */
+        text-align: center;       /* Center-aligned text */
+        border-radius: 7px;       /* Rounded corners */
+        font-family: 'Raleway', Arial; /* Font family */
+    }
+</style>
 
-
-<span style="font-family: 'Raleway', Arial; color: #7C8BE6;">[HPCA 2024]</span> 
+<span class="badge" style="font-family: 'Raleway', Arial; color: #7C8BE6;">[HPCA 2024]</span> 
 [GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement](../files/GRIT_HPCA24.pdf) \
 <u><b>Yueqi Wang*</b></u>, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
 <i>\*The authors contribute equally.</i>
