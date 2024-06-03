@@ -6,7 +6,7 @@ collection: misc
 
 <!-- excerpt: "Pipilu_overview <br/><img src='/images/pipilu/pipilu1.jpg' width='86' height='86'>" -->
 
-This is my cat Pipilu.
+My cats Pipilu & Luluna, and their friend Oran橘.
 
 
 <img src="/images/pipilu/pipiluluna0.jpg" style="margin-right: 10px; width: 255px;" />
@@ -24,15 +24,6 @@ This is my cat Pipilu.
 <img src="/images/pipilu/pipilu8.JPG" style="margin-right: 10px; width: 255px;" />
 <img src="/images/pipilu/pipilu9.jpg" style="margin-right: 10px; width: 255px;" />
 <img src="/images/pipilu/pipilu10.jpg" style="margin-right: 10px; width: 255px;" />
-
-
-<br>
-
-
-And Pipilu's friend Oran橘.
-
-<br>
-
 <img src="/images/pipilu/orange1.PNG" style="margin-right: 10px; width: 255px;" />
 <img src="/images/pipilu/orange2.jpg" style="margin-right: 10px; width: 255px;" />
 
