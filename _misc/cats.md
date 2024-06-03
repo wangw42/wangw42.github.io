@@ -9,7 +9,7 @@ collection: misc
 My cats Pipilu & Luluna, and their friend Oran橘.
 
 
-<img src="/images/pipilu/pipiluluna0.jpg" style="margin-right: 10px; width: 255px;" />
+<img src="/images/pipilu/pipiluluna0.JGP" style="margin-right: 10px; width: 255px;" />
 <img src="/images/pipilu/pipilu1.jpg" style="margin-right: 10px; width: 255px;" />
 <img src="/images/pipilu/luluna0.JPG" style="margin-right: 10px; width: 255px;" />
 <img src="/images/pipilu/pipilu2.jpg" style="margin-right: 10px; width: 255px;" />
