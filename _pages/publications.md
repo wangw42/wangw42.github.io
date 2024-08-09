@@ -31,6 +31,14 @@ sitemap: false
     }
 </style>
 
+
+* <span class="badge" style="font-family: 'Raleway', Arial;">[MICRO 2024]</span>  [STAR: Sub-Entry Sharing-Aware TLB for Multi-Instance GPU](../files/STAR_MICRO24.pdf) \
+<!-- [Slides](../files/STAR_slides.pptx) \ -->
+Bingyao Li, <u><b>Yueqi Wang</b></u>, Tianyu Wang, Lieven Eeckhout, Jun Yang, Aamer Jaleel, and Xulong Tang \
+
+
+
+
 * <span class="badge" style="font-family: 'Raleway',Arial; ">[HPCA 2024]</span> [GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement](../files/GRIT_HPCA24.pdf) \
   [Slides](../files/GRIT_slides.pptx) \
   <u><b>Yueqi Wang*</b></u>, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \

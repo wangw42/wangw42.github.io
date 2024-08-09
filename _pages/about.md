@@ -22,7 +22,7 @@ My research interests lie primarily in the area of **computer architecture**, wi
 
 News
 ===
-
+* 07/2024: One paper is accepted by **MICRO 2024**. Thanks to all collaborators!
 * 10/2023: One paper is accepted by **HPCA 2024**. Thanks to all collaborators!
 * 07/2023: One paper is accepted by **MICRO 2023**. Thanks to all collaborators!
 * 02/2023: One paper is accepted by **DAC 2023**. Thanks to all collaborators!
@@ -42,6 +42,14 @@ Publications
         font-family: 'Raleway', Arial; /* Font family */
     }
 </style>
+
+
+<span class="badge" style="font-family: 'Raleway', Arial;">[MICRO 2024]</span> 
+[STAR: Sub-Entry Sharing-Aware TLB for Multi-Instance GPU](../files/STAR_MICRO24.pdf) \
+<!-- [Slides](../files/STAR_slides.pptx) \ -->
+Bingyao Li, <u><b>Yueqi Wang</b></u>, Tianyu Wang, Lieven Eeckhout, Jun Yang, Aamer Jaleel, and Xulong Tang \
+
+
 
 <!-- <span class="badge" style="font-family: 'Raleway', Arial; color: #7C8BE6;">[HPCA 2024]</span>  -->
 <span class="badge" style="font-family: 'Raleway', Arial;">[HPCA 2024]</span> 
