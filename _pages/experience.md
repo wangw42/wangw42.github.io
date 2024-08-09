@@ -6,7 +6,7 @@ author_profile: true
 sitemap: false
 ---
 
-<link rel="stylesheet" href="wyq_styles.css">
+<link rel="stylesheet" href="./wyq_styles.css">
 
 <!-- <style>
 .table-work {
@@ -49,14 +49,14 @@ Education
   </tr>
 <table class="table-work">
   <tr>
-    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Guangzhou, China</td>
+    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Guangdong, China</td>
     <td width="30%" align="right">Aug. 2018 –-- Jul. 2022</td>
   </tr>
   <tr><td>B.E. in Software Engineering, School of Computer Science</td></tr>
 </table>
 <table class="table-work">
   <tr>
-    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Zhuhai, China</td>
+    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Guangdong, China</td>
     <td width="30%" align="right">Aug. 2016 –-- Jul. 2018:</td>
   </tr>
   <tr><td>Undergraduate, Atmospheric Science (transferred to SE)</td></tr>
