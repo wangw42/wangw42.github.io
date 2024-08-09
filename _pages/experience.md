@@ -21,9 +21,34 @@ Teaching
 
 Education
 ===
-* <img src="../files/icon/pitt.svg" class="icon-work"> Aug. 2022 --- Present: Ph.D. Candidate in Computer Science, University of Pittsburgh
-* <img src="../files/icon/sysu.svg" class="icon-work"> Aug. 2016 –-- Jul. 2018: Undergraduate, Atmospheric Science, Sun Yat-sen University (transferred to SE)
-* <img src="../files/icon/sysu.svg" class="icon-work"> Aug. 2018 –-- Jul. 2022: B.E. in Software Engineering, School of Computer Science, Sun Yat-sen University
+* Aug. 2022 --- Present: Ph.D. Candidate in Computer Science, University of Pittsburgh
+* Aug. 2018 –-- Jul. 2022: B.E. in Software Engineering, School of Computer Science, Sun Yat-sen University
+* Aug. 2016 –-- Jul. 2018: Undergraduate, Atmospheric Science, Sun Yat-sen University (transferred to SE)
+
+
+
+<table class="table-work">
+  <tr>
+    <td width="70%"><img src="../files/icon/pitt.svg" class="icon-work"> <a class="link-body" href="hhttps://www.pitt.edu/">University of Pittsburgh</a>, Pittsburgh, PA, USA</td>
+    <td width="30%" align="right">Aug. 2022 --- Present</td>
+    <tr><td>Ph.D. Candidate in Computer Science, Advisor: <a class="link-body" href="http://xzt102.github.io/">Prof. Xulong Tang</a></td></tr>
+  </tr>
+<table class="table-work">
+  <tr>
+    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Guangzhou, China</td>
+    <td width="30%" align="right">Aug. 2018 –-- Jul. 2022</td>
+  </tr>
+  <tr><td>B.E. in Software Engineering, School of Computer Science</td></tr>
+</table>
+<table class="table-work">
+  <tr>
+    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Zhuhai, China</td>
+    <td width="30%" align="right">Aug. 2016 –-- Jul. 2018:</td>
+  </tr>
+  <tr><td>Undergraduate, Atmospheric Science (transferred to SE)</td></tr>
+</table>
+
+
 
 Honors and Awards
 ===
