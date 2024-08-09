@@ -14,7 +14,7 @@ sitemap: false
 Short Bio
 ===
 
-I am currenty a second-year Ph.D. student  in Department of Computer Science at University of Pittsburgh, advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree from Sun Yat-sen University in 2022.
+I am currenty a third-year Ph.D. student  in Department of Computer Science at University of Pittsburgh, advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree from Sun Yat-sen University in 2022.
 
 My research interests lie primarily in the area of **computer architecture**, with a focus on virtual memory for multi-GPU.
 
