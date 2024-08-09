@@ -8,66 +8,14 @@ sitemap: false
 
 
 
-<style>
-.table-work {
-  margin-left: 15px;
-  margin-bottom: 15px;
-  border-spacing:0px 10px;
-  width: 90%;
-}
-
-.icon-work {
-  width: 5%;
-  vertical-align:middle
-  horizontal-align:middle;
-}
-
-.link-body {
-  text-decoration: none;
-  border-bottom: 1px dotted;
-  border-color: #555;
-  color: #555;
-}
-.link-body:hover {
-  border-color: #555;
-}
-.link-body:visited{
-  /*color:#000000;*/
-}
-
-</style>
-
-
 
 
 Education
 ===
-<!--* Aug.  2022 --- Present: Ph.D. Candidate in Computer Science, University of Pittsburgh
-* Aug. 2018 –-- Jul. 2022: B.E. in Software Engineering, School of Computer Science, Sun Yat-sen University
-* Aug. 2016 –-- Jul. 2018: Undergraduate, Atmospheric Science, Sun Yat-sen University (transferred to SE)
+* <img src="../files/icon/pitt.svg" alt="Pitt Icon" width="20" height="20"> Aug.  2022 --- Present: Ph.D. Candidate in Computer Science, University of Pittsburgh
+* <img src="../files/icon/sysu.svg" alt="SYSU Icon" width="20" height="20"> Aug. 2018 –-- Jul. 2022: B.E. in Software Engineering, School of Computer Science, Sun Yat-sen University
+* <img src="../files/icon/sysu.svg" alt="SYSU Icon" width="20" height="20"> Aug. 2016 –-- Jul. 2018: Undergraduate, Atmospheric Science (transferred to SE), Sun Yat-sen University 
 
- -->
-
-<table class="table-work">
-  <tr>
-    <td width="70%"><img src="../files/icon/pitt.svg" class="icon-work"> <a class="link-body" href="hhttps://www.pitt.edu/">University of Pittsburgh</a>, Pittsburgh, PA, USA</td>
-    <td width="30%" align="right">Aug. 2022 --- Present</td>
-    <tr><td>Ph.D. Candidate in Computer Science, Advisor: <a class="link-body" href="http://xzt102.github.io/">Prof. Xulong Tang</a></td></tr>
-  </tr>
-<table class="table-work">
-  <tr>
-    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Guangdong, China</td>
-    <td width="30%" align="right">Aug. 2018 –-- Jul. 2022</td>
-  </tr>
-  <tr><td>B.E. in Software Engineering, School of Computer Science</td></tr>
-</table>
-<table class="table-work">
-  <tr>
-    <td width="70%"><img src="../files/icon/sysu.svg" class="icon-work"> <a class="link-body" href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>, Guangdong, China</td>
-    <td width="30%" align="right">Aug. 2016 –-- Jul. 2018:</td>
-  </tr>
-  <tr><td>Undergraduate, Atmospheric Science (transferred to SE)</td></tr>
-</table> 
 
 
 
