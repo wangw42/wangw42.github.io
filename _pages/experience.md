@@ -6,9 +6,9 @@ author_profile: true
 sitemap: false
 ---
 
-<link rel="stylesheet" href="./wyq_styles.css">
 
-<!-- <style>
+
+<style>
 .table-work {
   margin-left: 15px;
   margin-bottom: 15px;
@@ -28,7 +28,14 @@ sitemap: false
   border-color: #555;
   color: #555;
 }
-</style> -->
+.link-body:hover {
+  border-color: #555;
+}
+.link-body:visited{
+  /*color:#000000;*/
+}
+
+</style>
 
 
 
