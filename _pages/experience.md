@@ -21,9 +21,9 @@ Teaching
 
 Education
 ===
-* Aug. 2022 --- Present: Ph.D. Candidate in Computer Science, University of Pittsburgh
-* Aug. 2016 –-- Jul. 2018: Undergraduate, Atmospheric Science, Sun Yat-sen University (transferred to SE)
-* Aug. 2018 –-- Jul. 2022: B.E. in Software Engineering, School of Computer Science, Sun Yat-sen University
+* <img src="../files/icon/pitt.svg" class="icon-work"> Aug. 2022 --- Present: Ph.D. Candidate in Computer Science, University of Pittsburgh
+* <img src="../files/icon/sysu.svg" class="icon-work"> Aug. 2016 –-- Jul. 2018: Undergraduate, Atmospheric Science, Sun Yat-sen University (transferred to SE)
+* <img src="../files/icon/sysu.svg" class="icon-work"> Aug. 2018 –-- Jul. 2022: B.E. in Software Engineering, School of Computer Science, Sun Yat-sen University
 
 Honors and Awards
 ===
