@@ -1,0 +1,47 @@
+.ta/*ble-work {
+  margin-left: 15px;
+  margin-bottom: 15px;
+  border-spacing:0px 10px;
+  width: 90%;
+}
+
+.icon-work {
+  width: 5%;
+  vertical-align:middle
+  horizontal-align:middle;
+}
+
+.link-body {
+  text-decoration: none;
+  border-bottom: 1px dotted;
+  border-color: #555;
+  color: #555;
+}*/
+
+.table-work {
+  margin-left: 15px;
+  margin-bottom: 15px;
+  border-spacing: 0px 10px; /* This controls the space between cells */
+  width: 90%;
+  border: none; /* Removes the table border */
+}
+
+.table-work tr {
+  border: none; /* Removes the border around the rows */
+}
+
+.table-work td {
+  border: none; /* Removes the border around the cells */
+}
+
+.icon-work {
+  width: 5%;
+  vertical-align: middle;
+}
+
+.link-body {
+  text-decoration: none;
+  border-bottom: 1px dotted; /* Keeps the dotted underline */
+  border-color: #555;
+  color: #555;
+}
