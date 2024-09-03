@@ -2,6 +2,7 @@
 title: "My photography"
 excerpt: "<img src='/images/photographs/photograph_4.jpg' width='86' height='86'>"
 collection: misc
+date: false
 ---
 
 

@@ -2,6 +2,7 @@
 title: "ReallyCat"
 excerpt: "<img src='/images/pipilu/pipilu1.jpg' width='86' height='86'>"
 collection: misc
+date: false
 ---
 
 <!-- excerpt: "Pipilu_overview <br/><img src='/images/pipilu/pipilu1.jpg' width='86' height='86'>" -->
