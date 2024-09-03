@@ -19,49 +19,6 @@ sitemap: false
 
 
 
-<style>
-    .badge {
-        background-color: #7C8BE6; /* Red background */
-        color: white;             /* White text */
-        font-weight: bold;        /* Bold font */
-        padding: 5px 10px;        /* Padding around the text */
-        text-align: center;       /* Center-aligned text */
-        border-radius: 5px;       /* Rounded corners */
-        font-family: 'Raleway', Arial; /* Font family */
-    }
-
-
-    .badgeblackbg {
-        background-color: black; /* Red background */
-        color: white;             /* White text */
-        font-weight: bold;        /* Bold font */
-        padding: 5px 10px;        /* Padding around the text */
-        text-align: center;       /* Center-aligned text */
-        border-radius: 5px;       /* Rounded corners */
-        font-family: 'Raleway', Arial; /* Font family */
-    }
-
-
-    .badgewobgcol {
-        background-color: transparent; /* No background color */
-        color: black;                  /* Black text */
-        font-weight: bold;             /* Bold font */
-        padding: 5px 10px;             /* Padding around the text */
-        text-align: center;            /* Center-aligned text */
-        border: 2px solid black;       /* Black border */
-        border-radius: 5px;            /* Rounded corners */
-        font-family: 'Raleway', Arial; /* Font family */
-    }
-
-    a.no-underline-link {
-        text-decoration: none !important; /* Ensures the underline is removed */
-        font-weight: bold;
-    }
-
-    .no-underline-link:hover {
-        text-decoration: underline; /* Underline on hover */
-    }
-</style>
 
 
 <span class="badgeblackbg" style="font-family: 'Raleway', Arial;"> MICRO 2024</span> 
@@ -88,6 +45,58 @@ Bingyao Li, Yanan Guo, <u><b>Yueqi Wang</b></u>, Aamer Jaleel, Jun Yang, and Xul
 <!-- [Orchestrated Scheduling and Partitioning for Improved Address Translation in GPUs](../files/DAC2023.pdf)  \ -->
 <a href="../files/DAC2023.pdf" class="no-underline-link"> Orchestrated Scheduling and Partitioning for Improved Address Translation in GPUs </a> \
 Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang
+
+
+
+<style>
+    .badge {
+        background-color: #7C8BE6; /* Red background */
+        color: white;             /* White text */
+        font-weight: bold;        /* Bold font */
+        padding: 5px 10px;        /* Padding around the text */
+        text-align: center;       /* Center-aligned text */
+        border-radius: 5px;       /* Rounded corners */
+        font-family: 'Raleway', Arial; /* Font family */
+        width: 140px;                 /* Fixed width based on the longest badge */
+        display: inline-block; 
+    }
+
+
+    .badgeblackbg {
+        background-color: black; /* Red background */
+        color: white;             /* White text */
+        font-weight: bold;        /* Bold font */
+        padding: 5px 10px;        /* Padding around the text */
+        text-align: center;       /* Center-aligned text */
+        border-radius: 5px;       /* Rounded corners */
+        font-family: 'Raleway', Arial; /* Font family */
+        width: 140px;                 /* Fixed width based on the longest badge */
+        display: inline-block; 
+    }
+
+
+    .badgewobgcol {
+        background-color: transparent; /* No background color */
+        color: black;                  /* Black text */
+        font-weight: bold;             /* Bold font */
+        padding: 5px 10px;             /* Padding around the text */
+        text-align: center;            /* Center-aligned text */
+        border: 2px solid black;       /* Black border */
+        border-radius: 5px;            /* Rounded corners */
+        font-family: 'Raleway', Arial; /* Font family */
+        width: 140px;                 /* Fixed width based on the longest badge */
+        display: inline-block; 
+    }
+
+    a.no-underline-link {
+        text-decoration: none !important; /* Ensures the underline is removed */
+        font-weight: bold;
+    }
+
+    .no-underline-link:hover {
+        text-decoration: underline !important; /* Ensure underline on hover */
+    }
+</style>
 
 <!-- 
 
