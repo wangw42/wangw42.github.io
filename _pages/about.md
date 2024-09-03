@@ -90,7 +90,7 @@ Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang
         font-weight: normal;             /* Bold font */
         padding: 5px 10px;             /* Padding around the text */
         text-align: center;            /* Center-aligned text */
-        border: 2px solid black;       /* Black border */
+        border: 1px solid #333333; /* Dark gray */
         border-radius: 5px;            /* Rounded corners */
         font-family: 'Raleway', Arial; /* Font family */
         font-size: 14px;

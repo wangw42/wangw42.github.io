@@ -18,30 +18,29 @@ sitemap: false
  -->
 
 
+ 
 
-
-
-<span class="badgeblackbg" style="font-family: 'Raleway', Arial;"> MICRO 2024</span> 
+<span class="badgewobgcol" style="font-family: 'Raleway', Arial;"> MICRO 2024</span> 
 <a href="../files/STAR_MICRO24.pdf" class="no-underline-link"> STAR: Sub-Entry Sharing-Aware TLB for Multi-Instance GPU </a> \
 <!-- [Slides](../files/STAR_slides.pptx) \ -->
 Bingyao Li, <u><b>Yueqi Wang</b></u>, Tianyu Wang, Lieven Eeckhout, Jun Yang, Aamer Jaleel, and Xulong Tang 
 
 
 
-<!-- <span class="badgeblackbg" style="font-family: 'Raleway', Arial; color: #7C8BE6;">[HPCA 2024]</span>  -->
-<span class="badgeblackbg" style="font-family: 'Raleway', Arial;"> HPCA 2024</span> 
+<!-- <span class="badgewobgcol" style="font-family: 'Raleway', Arial; color: #7C8BE6;">[HPCA 2024]</span>  -->
+<span class="badgewobgcol" style="font-family: 'Raleway', Arial;"> HPCA 2024</span> 
 <a href="../files/GRIT_HPCA24.pdf" class="no-underline-link"> GRIT: Enhancing Multi-GPU Performance with Fine-Grained Dynamic Page Placement </a> \
 [Slides](../files/GRIT_slides.pptx) \
 <u><b>Yueqi Wang*</b></u>, Bingyao Li*, Aamer Jaleel, Jun Yang, and Xulong Tang \
 <i>\*The authors contribute equally.</i>
 
-<span class="badgeblackbg" style="font-family: 'Raleway', Arial;"> MICRO 2023</span> 
+<span class="badgewobgcol" style="font-family: 'Raleway', Arial;"> MICRO 2023</span> 
 <!-- [IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations](../files/MICRO2023_IDYLL.pdf) \ -->
 <a href="../files/MICRO2023_IDYLL.pdf" class="no-underline-link"> IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations </a> \
 Bingyao Li, Yanan Guo, <u><b>Yueqi Wang</b></u>, Aamer Jaleel, Jun Yang, and Xulong Tang 
 
 
-<span class="badgeblackbg" style="font-family: 'Raleway', Arial;"> DAC 2023</span> 
+<span class="badgewobgcol" style="font-family: 'Raleway', Arial;"> DAC 2023</span> 
 <!-- [Orchestrated Scheduling and Partitioning for Improved Address Translation in GPUs](../files/DAC2023.pdf)  \ -->
 <a href="../files/DAC2023.pdf" class="no-underline-link"> Orchestrated Scheduling and Partitioning for Improved Address Translation in GPUs </a> \
 Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang
@@ -74,12 +73,13 @@ Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang
     .badgewobgcol {
         background-color: transparent; /* No background color */
         color: black;                  /* Black text */
-        font-weight: bold;             /* Bold font */
+        font-weight: normal;             /* Bold font */
         padding: 5px 10px;             /* Padding around the text */
         text-align: center;            /* Center-aligned text */
-        border: 2px solid black;       /* Black border */
+        border: 1px solid #333333; /* Dark gray */
         border-radius: 5px;            /* Rounded corners */
         font-family: 'Raleway', Arial; /* Font family */
+        font-size: 14px;
     }
 
     a.no-underline-link {
