@@ -65,15 +65,12 @@ Publications
         font-family: 'Raleway', Arial; /* Font family */
     }
 
-    .no-underline-link {
-        text-decoration: none; /* Removes the underline */
-    }
+    
 </style>
 
 
 <span class="badgeblackbg" style="font-family: 'Raleway', Arial;">[MICRO 2024]</span> 
-<!-- [STAR: Sub-Entry Sharing-Aware TLB for Multi-Instance GPU](../files/STAR_MICRO24.pdf)  -->
-<a href="../files/STAR_MICRO24.pdf" class="no-underline-link">[STAR: Sub-Entry Sharing-Aware TLB for Multi-Instance GPU]</a> \
+[STAR: Sub-Entry Sharing-Aware TLB for Multi-Instance GPU](../files/STAR_MICRO24.pdf) \
 <!-- [Slides](../files/STAR_slides.pptx) \ -->
 Bingyao Li, <u><b>Yueqi Wang</b></u>, Tianyu Wang, Lieven Eeckhout, Jun Yang, Aamer Jaleel, and Xulong Tang 
 
