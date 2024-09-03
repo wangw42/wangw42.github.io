@@ -70,8 +70,6 @@ Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang
         text-align: center;       /* Center-aligned text */
         border-radius: 5px;       /* Rounded corners */
         font-family: 'Raleway', Arial; /* Font family */
-        width: 140px;                 /* Fixed width based on the longest badge */
-        display: inline-block; 
     }
 
 
@@ -83,8 +81,6 @@ Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang
         text-align: center;       /* Center-aligned text */
         border-radius: 5px;       /* Rounded corners */
         font-family: 'Raleway', Arial; /* Font family */
-        width: 140px;                 /* Fixed width based on the longest badge */
-        display: inline-block; 
     }
 
 
@@ -97,8 +93,6 @@ Bingyao Li, <u><b>Yueqi Wang</b></u>, and Xulong Tang
         border: 2px solid black;       /* Black border */
         border-radius: 5px;            /* Rounded corners */
         font-family: 'Raleway', Arial; /* Font family */
-        width: 140px;                 /* Fixed width based on the longest badge */
-        display: inline-block; 
     }
 
     a.no-underline-link {
