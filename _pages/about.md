@@ -22,6 +22,7 @@ My research interests lie primarily in the area of **computer architecture**, wi
 
 News
 ===
+* I have a new personal website, [yueqiwang42.github.io](https://yueqiwang42.github.io/).
 * 07/2024: One paper is accepted by **MICRO 2024**. Thanks to all collaborators!
 * 10/2023: One paper is accepted by **HPCA 2024**. Thanks to all collaborators!
 * 07/2023: One paper is accepted by **MICRO 2023**. Thanks to all collaborators!
